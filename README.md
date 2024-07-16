@@ -3,7 +3,7 @@
 This program is a tool enabling effective management of customer purchases, adapting them to individual preferences and financial possibilities, while offering extensive functions of purchasing data analysis.
 
 ![Install](https://img.shields.io/badge/install-passing-green)
-![Install](https://img.shields.io/badge/coverage-67%25-light%20green)
+![Install](https://img.shields.io/badge/coverage-95%25-light%20green)
 
 ## Technologies and libraries used
 
